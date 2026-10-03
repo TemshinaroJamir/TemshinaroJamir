@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/temshinaro-jamir-42192126a">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -164,9 +164,9 @@ and practical electronics through academic and personal projects.
 
 <b>AWS & Cloud Computing</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-📡 <b>RF & Antenna Systems</b>
+ <b>RF & Antenna Systems</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-🔧 <b>IoT & Embedded Systems</b>
+ <b>IoT & Embedded Systems</b>
 
 <br>
 
@@ -217,7 +217,7 @@ Photography · Reading · Exploring
 <br><br>
 
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/temshinaro-jamir-42192126a">
 <img src="https://img.shields.io/badge/CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
