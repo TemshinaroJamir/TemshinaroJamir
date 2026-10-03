@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  Electronics & Communication Engineering Student
+  Hello! I am Temshinaro Jamir, an Electronics & Communication Engineering Student. I enjoy learning new tech and problem solving. I love working on social projects that matters. Now I'm putting theory into practise into fun lil' projects encompassing ML, Python, System Design.
   <br>
   Interested in <b>IoT · Embedded Systems · AWS · Data Analytics</b>
 </p>
