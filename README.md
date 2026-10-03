@@ -217,25 +217,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJa
 
 <div align="center">
 
-## `// contribution activity`
-
-</div>
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=TemshinaroJamir&bg_color=0D1117&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-/>
-
-</p>
-
-<br>
-
----
-
-<div align="center">
-
 ## `// beyond the terminal`
 
 <br>
@@ -244,11 +225,6 @@ Photography · Reading · Exploring · Learning
 
 <br><br>
 
-<sub>
-"Been declaring variables, not wars."
-</sub>
-
-<br><br>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -271,7 +247,12 @@ src="https://komarev.com/ghpvc/?username=TemshinaroJamir&style=flat-square&color
 <img src="./scape.gif" width="100%" alt="scape"/>
 
 <br><br>
+</div>
 
-<sub>until next time.</sub>
+
+<div align="center">
+
+<sub><i>until next time.</i></sub>
 
 </div>
+
