@@ -1,6 +1,6 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Welcome%20to%20Temshi's%20GitHub&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=%3C%2F%3E%20Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<div align="center">
+<img width="1920" height="1080" alt="Welcome to Temshi’s GitHub (1)" src="https://github.com/user-attachments/assets/847b2184-83e4-4cee-82dd-bb411f6ea1e8" />
 
 <br>
 
