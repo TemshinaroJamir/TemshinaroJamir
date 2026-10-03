@@ -2,13 +2,12 @@
 
 <img src="./banner.jpg" width="75%" alt="Welcome to Temshi's GitHub"/>
 
-<br><br>
+<br>
 
-<sub> CONNECT </sub>
 <br>
 &nbsp;
 <a href="https://www.linkedin.com/in/temshinaro-jamir-42192126a/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -206,7 +205,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJa
 
 <br>
 
-Photography · Reading · Exploring 
+Photography · Reading · Exploring · Traveling
 
 <br>
 
