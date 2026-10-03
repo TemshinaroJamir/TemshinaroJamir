@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="Welcome to Temshi's GitHub"/>
+<img src="./banner.jpg" width="75%" alt="Welcome to Temshi's GitHub"/>
 
 <br><br>
 
