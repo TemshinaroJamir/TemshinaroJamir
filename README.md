@@ -1,98 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:252525&height=180&section=header&text=TEMSHI&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Welcome%20to%20Temshi's%20GitHub&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=%3C%2F%3E%20Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
-### Electronics & Communication Engineering Student
-
-**IoT • AWS • Data Analytics • Embedded Systems**
-
-</div>
-
----
-
-## WHO I AM
-
-I'm an Electronics and Communication Engineering student interested
-in building practical solutions using electronics, programming,
-IoT, cloud technologies and data.
-
-I'm currently exploring AWS and cloud-based applications while
-strengthening my skills in Python, C, MATLAB and data analytics.
-
----
-
-## WHAT I'M INTERESTED IN
-
-- Cloud Computing & AWS
-- Internet of Things (IoT)
-- Embedded Systems
-- Data Analytics
-- Electronics & Automation
-- Machine Learning
-- Software Development
-
----
-
-## TECHNICAL SKILLS
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,git,github,aws,arduino,mysql&perline=7"/>
-
-</p>
-
-**Also working with:** MATLAB • ESP32 • NumPy • Pandas • 
-Signal Processing • Machine Learning
-
----
-
-## PROJECTS
-
-### IoT Smart Greywater Reuse System
-
-An IoT-based system for monitoring water quality and automating
-greywater reuse using sensors, ESP32 and control mechanisms.
-
-**Focus:** IoT • ESP32 • Sensors • Embedded Systems
-
----
-
-### Speaker Identification using MFCC
-
-A speaker identification system using MFCC feature extraction
-and machine learning classification.
-
-**Focus:** MATLAB • MFCC • SVM • Machine Learning
-
----
-
-### Mini Shell in C
-
-A Unix-style mini shell implementing command parsing,
-process execution and pipeline handling.
-
-**Focus:** C • Linux • POSIX • fork() • execvp() • pipe()
-
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TemshinaroJamir&show_icons=true&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJamir&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-## CONNECT WITH ME
-
-<div align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/temshinaro-jamir-42192126a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/TemshinaroJamir">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -101,6 +18,30 @@ process execution and pipeline handling.
 
 <div align="center">
 
-**Always learning. Always building.**
+## About Me
 
 </div>
+
+<table>
+<tr>
+<td width="65%">
+
+Hello! I'm **Temshinaro**, an Electronics and Communication Engineering student interested in building practical solutions that combine **electronics, programming, IoT and data**.
+
+I'm currently exploring **AWS and cloud technologies** while developing my skills in embedded systems, data analytics and software development.
+
+I enjoy learning by building things — from hardware projects and signal-processing applications to system-level programming.
+
+</td>
+
+<td width="35%" align="center">
+
+```text
+  electronics
+       +
+   software
+       +
+      data
+       ↓
+   something
+    useful
