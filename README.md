@@ -64,6 +64,8 @@
 
 ---
 
+---
+
 <div align="center">
 
 ## Projects
@@ -105,19 +107,6 @@ A speaker identification system using MFCC feature extraction and machine learni
 
 <td width="50%" valign="top">
 
-### 💻 Mini Shell in C
-
-A Unix-style mini shell implementing command parsing, process execution and pipeline handling.
-
-**Technologies**
-
-`C` `Linux` `POSIX`  
-`fork()` `execvp()` `pipe()`
-
-</td>
-
-<td width="50%" valign="top">
-
 ### ☁️ AWS & Cloud
 
 Currently exploring AWS and cloud computing, with an interest in applying cloud technologies to IoT and data-driven systems.
@@ -129,11 +118,25 @@ Currently exploring AWS and cloud computing, with an interest in applying cloud 
 
 </td>
 
+<td width="50%" valign="top">
+
+### 🔧 Electronics & Embedded Systems
+
+Exploring practical electronics, microcontrollers, sensors and automation through hands-on projects.
+
+**Focus**
+
+`ESP32` `Sensors` `Microcontrollers`  
+`Embedded Systems`
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
+---
 ---
 
 <div align="center">
