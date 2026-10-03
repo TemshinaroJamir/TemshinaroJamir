@@ -146,42 +146,7 @@ in applying cloud technologies to IoT and data-driven systems.
 
 <br>
 
----
----
 
-<div align="center">
-
-## GitHub Statistics
-
-</div>
-
-<p align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=TemshinaroJamir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJamir&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA"/>
-
-</p>
-
-<br>
-
----
-
-<div align="center">
-
-## Contribution Activity
-
-</div>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TemshinaroJamir&bg_color=0D1117&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</p>
-
-<br>
 
 ---
 
