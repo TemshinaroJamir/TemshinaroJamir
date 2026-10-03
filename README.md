@@ -222,7 +222,7 @@ Photography · Reading · Exploring · Traveling
 
 <div align="center">
 
-<sub><code>until next time....</code></sub>
+<sup><code>until next time....</code></sup>
 
 </div>
 
