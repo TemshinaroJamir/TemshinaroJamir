@@ -264,10 +264,14 @@ Photography · Reading · Exploring · Learning
 src="https://komarev.com/ghpvc/?username=TemshinaroJamir&style=flat-square&color=111111&label=PROFILE+VIEWS"
 />
 
-</div>
+---
 
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="Welcome to Temshi's GitHub"/>
+<img src="./scape.gif" width="100%" alt="scape"/>
 
 <br><br>
+
+<sub>until next time.</sub>
+
+</div>
