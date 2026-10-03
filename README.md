@@ -161,21 +161,17 @@ and practical electronics through academic and personal projects.
 </div>
 
 <p align="center">
-
-<b>AWS & Cloud Computing</b>
-&nbsp;&nbsp; · &nbsp;&nbsp;
+ <b>AWS & Cloud Computing</b>
+ &nbsp;&nbsp; · &nbsp;&nbsp;
  <b>RF & Antenna Systems</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
  <b>IoT & Embedded Systems</b>
-
+ &nbsp;&nbsp; · &nbsp;&nbsp;
+ <b>Data Analytics</b>
 <br>
-
-<b>Data Analytics</b>
-&nbsp;&nbsp; · &nbsp;&nbsp;
  <b>Programming</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
  <b>Wireless Communication</b>
-
 </p>
 
 <br>
@@ -222,7 +218,7 @@ Photography · Reading · Exploring
 
 <div align="center">
 
-<img src="./scape.gif" width="100%" alt="scape"/>
+<img src="./scape.gif" width="80%" alt="scape"/>
 
 <br><br>
 </div>
