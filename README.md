@@ -187,17 +187,14 @@ and practical electronics through academic and personal projects.
 </div>
 
 <p align="center">
-
-<img
+ <img
 height="165"
 src="https://github-readme-stats.vercel.app/api?username=TemshinaroJamir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"
 />
-
-<img
+ <img
 height="165"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJamir&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA"
 />
-
 </p>
 
 <br>
