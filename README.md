@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/temshinaro-jamir-42192126a">
+<a href="https://www.linkedin.com/in/temshinaro-jamir-42192126a/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -217,8 +217,8 @@ Photography · Reading · Exploring
 <br><br>
 
 
-<a href="www.linkedin.com/in/temshinaro-jamir-42192126a">
-<img src="https://img.shields.io/badge/CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/temshinaro-jamir-42192126a/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
