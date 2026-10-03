@@ -214,16 +214,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJa
 
 Photography · Reading · Exploring 
 
-<br><br>
-
-
-<a href="https://www.linkedin.com/in/temshinaro-jamir-42192126a/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
 <br>
+<br>
+
 
 ---
 
