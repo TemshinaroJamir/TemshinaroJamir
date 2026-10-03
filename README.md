@@ -66,8 +66,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ## Projects
@@ -86,7 +84,7 @@ greywater reuse using sensors and an ESP32.
 
 **Technologies**
 
-`ESP32` `IoT` `Sensors`
+`ESP32` `IoT` `Sensors`  
 `Embedded Systems` `Automation`
 
 </td>
@@ -95,16 +93,15 @@ greywater reuse using sensors and an ESP32.
 
 ### 📡 2.4 GHz Rectangular Dielectric Resonator Antenna
 
-Designed, simulated, optimized and fabricated a compact RDRA for
-2.4 GHz wireless applications.
+Designed, simulated, optimized and fabricated a compact RDRA
+for 2.4 GHz wireless applications.
 
-The antenna uses a microstrip feed and top copper plate loading
-for miniaturization and frequency tuning. Designed and optimized
-using CST Studio Suite and experimentally validated using a VNA.
+The design uses a microstrip feed and top copper plate loading
+for miniaturization and frequency tuning.
 
 **Technologies**
 
-`CST Studio Suite` `RF` `Antenna Design`
+`CST Studio Suite` `RF` `Antenna Design`  
 `S-Parameters` `VNA` `2.4 GHz`
 
 </td>
@@ -115,20 +112,6 @@ using CST Studio Suite and experimentally validated using a VNA.
 
 <td width="50%" valign="top">
 
-### 🎙 Speaker Identification
-
-A speaker identification system using MFCC feature extraction
-and machine learning classification.
-
-**Technologies**
-
-`MATLAB` `MFCC` `SVM`
-`Signal Processing` `Machine Learning`
-
-</td>
-
-<td width="50%" valign="top">
-
 ### ☁️ AWS & Cloud
 
 Currently exploring AWS and cloud computing, with an interest
@@ -136,8 +119,23 @@ in applying cloud technologies to IoT and data-driven systems.
 
 **Exploring**
 
-`AWS` `Cloud Computing`
+`AWS` `Cloud Computing`  
 `IoT` `Data`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📻 Electronics & Communication
+
+Exploring RF systems, antennas, wireless communication,
+embedded systems and practical electronics through academic
+and personal projects.
+
+**Interests**
+
+`RF` `Antennas` `IoT`  
+`Embedded Systems` `Wireless`
 
 </td>
 
@@ -146,7 +144,7 @@ in applying cloud technologies to IoT and data-driven systems.
 
 <br>
 
-
+---
 
 ---
 
