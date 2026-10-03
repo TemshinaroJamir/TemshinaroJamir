@@ -34,7 +34,6 @@
     <br>
     Interested in the space where <b>hardware × software × data</b> meet.
     <br>
-   Currently exploring <b>IoT · Embedded Systems · RF · Antennas · AWS</b>
    </p>
   </td>
   <td width="35%" align="center">
