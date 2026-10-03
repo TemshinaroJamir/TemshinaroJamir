@@ -1,18 +1,20 @@
-
 <div align="center">
-<img width="1920" height="1080" alt="Welcome to Temshi’s GitHub (1)" src="https://github.com/user-attachments/assets/847b2184-83e4-4cee-82dd-bb411f6ea1e8" />
+
+<img src="./banner.jpg" width="100%" alt="Welcome to Temshi's GitHub"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/temshinaro-jamir-42192126a/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://github.com/TemshinaroJamir">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
+
+<br>
 
 ---
 
@@ -22,26 +24,163 @@
 
 </div>
 
+<p align="center">
+  Electronics & Communication Engineering Student
+  <br>
+  Interested in <b>IoT · Embedded Systems · AWS · Data Analytics</b>
+</p>
+
+<p align="center">
+  I enjoy learning by building practical projects that combine
+  hardware, software and data.
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+## Technologies
+
+</div>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,matlab,git,github,aws,arduino,mysql&perline=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+## Projects
+
+</div>
+
 <table>
 <tr>
-<td width="65%">
 
-Hello! I'm **Temshinaro**, an Electronics and Communication Engineering student interested in building practical solutions that combine **electronics, programming, IoT and data**.
+<td width="50%" valign="top">
 
-I'm currently exploring **AWS and cloud technologies** while developing my skills in embedded systems, data analytics and software development.
+### 💧 IoT Smart Greywater Reuse System
 
-I enjoy learning by building things — from hardware projects and signal-processing applications to system-level programming.
+An IoT-based system for monitoring water quality and automating greywater reuse.
+
+**Technologies**
+
+`ESP32` `IoT` `Sensors`  
+`Embedded Systems` `Automation`
 
 </td>
 
-<td width="35%" align="center">
+<td width="50%" valign="top">
+
+### 🎙 Speaker Identification
+
+A speaker identification system using MFCC feature extraction and machine learning classification.
+
+**Technologies**
+
+`MATLAB` `MFCC` `SVM`  
+`Signal Processing` `Machine Learning`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Mini Shell in C
+
+A Unix-style mini shell implementing command parsing, process execution and pipeline handling.
+
+**Technologies**
+
+`C` `Linux` `POSIX`  
+`fork()` `execvp()` `pipe()`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ AWS & Cloud
+
+Currently exploring AWS and cloud computing, with an interest in applying cloud technologies to IoT and data-driven systems.
+
+**Exploring**
+
+`AWS` `Cloud Computing`  
+`IoT` `Data`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## GitHub Statistics
+
+</div>
+
+<p align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=TemshinaroJamir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"/>
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJamir&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA"/>
+
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+## Contribution Activity
+
+</div>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TemshinaroJamir&bg_color=0D1117&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+## Currently Learning
+
+</div>
 
 ```text
-  electronics
-       +
-   software
-       +
-      data
-       ↓
-   something
-    useful
+AWS / Cloud Computing       ████████████░░░░
+Data Analytics              ███████████░░░░░
+IoT & Embedded Systems      █████████████░░░
+Machine Learning            █████████░░░░░░░
+Linux / System Programming  █████████░░░░░░░
