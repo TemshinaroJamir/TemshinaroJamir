@@ -7,7 +7,7 @@
 <br>
 &nbsp;
 <a href="https://www.linkedin.com/in/temshinaro-jamir-42192126a/" target="_blank">
-<img src="https://img.shields.io/badge/CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -222,7 +222,7 @@ Photography · Reading · Exploring · Traveling
 
 <div align="center">
 
-<sub><i>until next time....</i></sub>
+<sub><code>until next time....</code></sub>
 
 </div>
 
