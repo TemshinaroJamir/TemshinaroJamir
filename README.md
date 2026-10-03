@@ -211,7 +211,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJa
 Photography · Reading · Exploring 
 
 <br>
-<br>
 
 
 ---
@@ -220,7 +219,7 @@ Photography · Reading · Exploring
 
 <img src="./scape.gif" width="80%" alt="scape"/>
 
-<br><br>
+<br>
 </div>
 
 
