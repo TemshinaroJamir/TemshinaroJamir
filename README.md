@@ -35,7 +35,7 @@
   </td>
 
   <td width="35%" align="center">
-   <img src="./about.jpg" width="250px" alt="About me"/>
+   <img src="./sword.jpg" width="250px" alt="About me"/>
   </td>
  </tr>
 </table>
