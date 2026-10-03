@@ -20,32 +20,22 @@
 
 <div align="center">
 
-## `// about`
+## `about`
 
 </div>
 
 <p align="center">
 
-Electronics & Communication Engineering student.
+Hello! I am Temshinaro Jamir, an Electronics & Communication Engineering Student. I enjoy learning new tech and problem solving. I love working on social projects that matters. Now I'm building practical projects, understanding how things work, and turning theory into something tangible.
 
 <br>
 
-Interested in the space where
-<b>hardware × software × data</b>
-meet.
+Interested in the space where <b>hardware × software × data</b> meet.
 
 <br><br>
 
 Currently exploring
 <b>IoT · Embedded Systems · RF · Antennas · AWS</b>
-
-</p>
-
-<p align="center">
-
-I enjoy learning by building practical projects,
-understanding how things work, and turning theory
-into something tangible.
 
 </p>
 
@@ -55,7 +45,7 @@ into something tangible.
 
 <div align="center">
 
-## `// arsenal`
+## `arsenal`
 
 </div>
 
@@ -82,7 +72,7 @@ into something tangible.
 
 <div align="center">
 
-## `// things i've built`
+## `things i've built`
 
 </div>
 
@@ -91,7 +81,7 @@ into something tangible.
 
 <td width="50%" valign="top">
 
-### 💧 IoT Smart Greywater Reuse System
+###  IoT Smart Greywater Reuse System
 
 An IoT-based system for monitoring water quality and automating
 greywater reuse using sensors and an ESP32.
@@ -106,7 +96,7 @@ greywater reuse using sensors and an ESP32.
 
 <td width="50%" valign="top">
 
-### 📡 2.4 GHz Rectangular Dielectric Resonator Antenna
+### 2.4 GHz Rectangular Dielectric Resonator Antenna
 
 Designed, simulated, optimized and fabricated a compact RDRA
 for 2.4 GHz wireless applications.
@@ -128,7 +118,7 @@ for miniaturization and frequency tuning.
 
 <td width="50%" valign="top">
 
-### ☁️ AWS & Cloud
+### AWS & Cloud
 
 Exploring AWS and cloud computing, with an interest in applying
 cloud technologies to IoT and data-driven systems.
@@ -143,7 +133,7 @@ cloud technologies to IoT and data-driven systems.
 
 <td width="50%" valign="top">
 
-### ⚡ Electronics & Communication
+### Electronics & Communication
 
 Exploring RF systems, wireless communication, embedded systems
 and practical electronics through academic and personal projects.
@@ -165,13 +155,13 @@ and practical electronics through academic and personal projects.
 
 <div align="center">
 
-## `// currently exploring`
+## `currently exploring`
 
 </div>
 
 <p align="center">
 
-☁️ <b>AWS & Cloud Computing</b>
+<b>AWS & Cloud Computing</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
 📡 <b>RF & Antenna Systems</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
@@ -179,11 +169,11 @@ and practical electronics through academic and personal projects.
 
 <br>
 
-📊 <b>Data Analytics</b>
+<b>Data Analytics</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-💻 <b>Programming</b>
+ <b>Programming</b>
 &nbsp;&nbsp; · &nbsp;&nbsp;
-📶 <b>Wireless Communication</b>
+ <b>Wireless Communication</b>
 
 </p>
 
@@ -193,7 +183,7 @@ and practical electronics through academic and personal projects.
 
 <div align="center">
 
-## `// github activity`
+## `github activity`
 
 </div>
 
@@ -217,11 +207,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemshinaroJa
 
 <div align="center">
 
-## `// beyond the terminal`
+## `beyond the terminal`
 
 <br>
 
-Photography · Reading · Exploring · Learning
+Photography · Reading · Exploring 
 
 <br><br>
 
@@ -233,12 +223,6 @@ Photography · Reading · Exploring · Learning
 </div>
 
 <br>
-
-<div align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=TemshinaroJamir&style=flat-square&color=111111&label=PROFILE+VIEWS"
-/>
 
 ---
 
@@ -252,7 +236,7 @@ src="https://komarev.com/ghpvc/?username=TemshinaroJamir&style=flat-square&color
 
 <div align="center">
 
-<sub><i>until next time.</i></sub>
+<sub><i>until next time....</i></sub>
 
 </div>
 
