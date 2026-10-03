@@ -66,6 +66,8 @@
 
 ---
 
+---
+
 <div align="center">
 
 ## Projects
@@ -79,25 +81,31 @@
 
 ### 💧 IoT Smart Greywater Reuse System
 
-An IoT-based system for monitoring water quality and automating greywater reuse.
+An IoT-based system for monitoring water quality and automating
+greywater reuse using sensors and an ESP32.
 
 **Technologies**
 
-`ESP32` `IoT` `Sensors`  
+`ESP32` `IoT` `Sensors`
 `Embedded Systems` `Automation`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎙 Speaker Identification
+### 📡 2.4 GHz Rectangular Dielectric Resonator Antenna
 
-A speaker identification system using MFCC feature extraction and machine learning classification.
+Designed, simulated, optimized and fabricated a compact RDRA for
+2.4 GHz wireless applications.
+
+The antenna uses a microstrip feed and top copper plate loading
+for miniaturization and frequency tuning. Designed and optimized
+using CST Studio Suite and experimentally validated using a VNA.
 
 **Technologies**
 
-`MATLAB` `MFCC` `SVM`  
-`Signal Processing` `Machine Learning`
+`CST Studio Suite` `RF` `Antenna Design`
+`S-Parameters` `VNA` `2.4 GHz`
 
 </td>
 
@@ -107,27 +115,29 @@ A speaker identification system using MFCC feature extraction and machine learni
 
 <td width="50%" valign="top">
 
-### ☁️ AWS & Cloud
+### 🎙 Speaker Identification
 
-Currently exploring AWS and cloud computing, with an interest in applying cloud technologies to IoT and data-driven systems.
+A speaker identification system using MFCC feature extraction
+and machine learning classification.
 
-**Exploring**
+**Technologies**
 
-`AWS` `Cloud Computing`  
-`IoT` `Data`
+`MATLAB` `MFCC` `SVM`
+`Signal Processing` `Machine Learning`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔧 Electronics & Embedded Systems
+### ☁️ AWS & Cloud
 
-Exploring practical electronics, microcontrollers, sensors and automation through hands-on projects.
+Currently exploring AWS and cloud computing, with an interest
+in applying cloud technologies to IoT and data-driven systems.
 
-**Focus**
+**Exploring**
 
-`ESP32` `Sensors` `Microcontrollers`  
-`Embedded Systems`
+`AWS` `Cloud Computing`
+`IoT` `Data`
 
 </td>
 
