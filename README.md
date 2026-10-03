@@ -28,7 +28,9 @@
  <tr>
   <td width"65%" valign="middle">
    <p align = "center">
-    Hello! I am Temshinaro Jamir, an Electronics & Communication Engineering Student. I enjoy learning new tech and problem solving. I love working on social projects that matters. Now I'm building practical projects, understanding how things work, and turning theory into something tangible.
+    Hello! <br>
+    I am Temshinaro Jamir, an Electronics & Communication Engineering Student. I enjoy learning new tech and problem solving. I love working on social projects that matters. <br> 
+    Now I'm building practical projects, understanding how things work, and turning theory into something tangible.
     <br>
     Interested in the space where <b>hardware × software × data</b> meet.
     <br>
