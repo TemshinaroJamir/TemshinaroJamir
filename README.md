@@ -27,13 +27,14 @@
 <table>
  <tr>
   <td width"65%" valign="middle">
-   Hello! I am Temshinaro Jamir, an Electronics & Communication Engineering Student. I enjoy learning new tech and problem solving. I love working on social projects that matters. Now I'm building practical projects, understanding how things work, and turning theory into something tangible.
-   <br>
-   Interested in the space where <b>hardware × software × data</b> meet.
-   <br><br>
+   <p align = "center">
+    Hello! I am Temshinaro Jamir, an Electronics & Communication Engineering Student. I enjoy learning new tech and problem solving. I love working on social projects that matters. Now I'm building practical projects, understanding how things work, and turning theory into something tangible.
+    <br>
+    Interested in the space where <b>hardware × software × data</b> meet.
+    <br>
    Currently exploring <b>IoT · Embedded Systems · RF · Antennas · AWS</b>
+   </p>
   </td>
-
   <td width="35%" align="center">
    <img src="./sword.jpg" width="250px" alt="About me"/>
   </td>
